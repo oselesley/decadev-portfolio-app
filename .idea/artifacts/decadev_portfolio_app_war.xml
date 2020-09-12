@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="decadev-portfolio-app:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>decadev-portfolio-app</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="decadev-portfolio-app-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="decadev-portfolio-app:war exploded" />
+    </root>
+  </artifact>
+</component>
